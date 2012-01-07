@@ -1,0 +1,18 @@
+Welcome to MazeSolver v.1.0 by Atkins Meyer and Carl Leth
+
+Requirements: Python
+	      
+Usage: Windows, MazeSolver.bat
+       Linux, python demo.py
+
+       The neural network included in the package works best with
+       mazes around 20 by 20 and 200 to 300 steps. 
+       
+       This demonstration neural network was built before some code
+       refinements and is outdated and preforms poorly. I will create
+       a more refined default neural network when I get some extra time.
+
+Implements the Evolving Neural Networks Through Augmenting Topologies ideas 
+as defined by: NeuroEvolution of Augmenting Topologies by Kenneth O. Stanley and 
+Risto Miikkulainen, 2002 University of Texas at Austin.
+
